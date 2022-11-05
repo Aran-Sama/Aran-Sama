@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa! 👋 I'm Aran</h1>
+<h1 align="center">Hi! 👋 I'm Aran</h1>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Mystic+Network%E2%9D%A4%EF%B8%8F">
