@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Mystic+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/AranSenpai"><img src="https://telegra.ph/file/a000232a6d48219e8131c.jpg" alt="zerohisoka"></a>
+  <a href="https://t.me/AranSenpai"><img src="https://telegra.ph/file/a000232a6d48219e8131c.jpg" alt="AranSenpai"></a>
   
   
   
