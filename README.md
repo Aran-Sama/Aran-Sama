@@ -38,7 +38,7 @@ class ＡＲＡＮ():
         ]
     def Owned Organizations(self):
         return [
-            'Astor'
+            'Mystic'
         ]
  ```
  [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/Aran-Sama)
