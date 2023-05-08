@@ -1,7 +1,7 @@
 <h1 align="center">Konichiwa 🌸 I'm Subaru</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Noob+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Mystic+Network%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=808080&width=420&lines=A+Basic+Programmer+From+India;Currently+Studying+As+Student;Working+In+Mystic+Network">
 </p>
 <p align="center">
   <a href="https://t.me/Sokuyo"><img src="https://telegra.ph/file/abb7e0ce5d31fbb7c0ebe.jpg" alt="zerohisoka"></a>
