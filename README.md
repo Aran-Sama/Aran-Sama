@@ -9,7 +9,7 @@
   
   
   <a href="https://t.me/sokuyo">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=discord"/>
   </a>  
 </a>
   <a href="https://github.com/sokuyo">
