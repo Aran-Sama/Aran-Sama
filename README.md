@@ -19,6 +19,15 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
   </a>
 
+</i> 
+ 
+ ## Programming Languages I've Learned :
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+
+
 # My GitHub Stats
 
 ![Sokuyo's Git Stats](https://github-readme-stats.vercel.app/api?username=sokuyo&show_icons=true&theme=radical)
@@ -32,13 +41,6 @@
 # Cute visitor count
 <a href="https://t.me/sokuyo"><img alt="Cute Count" src="https://count.getloli.com/get/@sokuyo?theme=rule34" /></a>
 
-</i> 
- 
- ## Programming Languages I've Learned :
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 
 Trophies:  
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sokuyo&theme=dracula&count_private=true"></div>
