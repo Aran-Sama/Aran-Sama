@@ -8,12 +8,12 @@
   
   
   
-  <a href="https://t.me/sokuyo">
-    <img src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=discord"/>
+  <a href="http://discordapp.com/users/620600298758602765">
+    <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord"/>
   </a>  
 </a>
-  <a href="https://github.com/sokuyo">
-    <img src="https://img.shields.io/github/followers/sokuyo?label=GitHub&logo=github&style=for-the-badge&color=darkred"/>
+  <a href="https://t.me/sokuyo">
+    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram"/>
   </a>
 
 # My GitHub Stats
