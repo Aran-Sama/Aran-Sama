@@ -15,6 +15,9 @@
   <a href="https://t.me/sokuyo">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram"/>
   </a>
+  <a href="https://instagram.com/sokuyo_aran?igshid=NTc4MTIwNjQ2YQ==">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
+  </a>
 
 # My GitHub Stats
 
