@@ -21,7 +21,7 @@
 
 </i> 
  
- ## Programming Languages I've Learned :
+ ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Programming Languages I've Learned :</b>
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,14 +30,14 @@
 
 # My GitHub Stats
 
-![Sokuyo's Git Stats](https://github-readme-stats.vercel.app/api?username=sokuyo&show_icons=true&theme=radical)
+![Sokuyo's Git Stats](https://github-readme-stats.vercel.app/api?username=sokuyo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 ![Sokuyo's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=sokuyo&theme=tokyonight)
 
 # My Activity Graph
 
 
-![Sokuyo's GitHub Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=sokuyo&layout=compact&theme=midnight-purple&hide=Css)
+![Sokuyo's GitHub Graph](https://github-readme-stats.vercel.app/api/top-langs?username=sokuyo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 # Cute visitor count
 <a href="https://t.me/sokuyo"><img alt="Cute Count" src="https://count.getloli.com/get/@sokuyo?theme=rule34" /></a>
 
