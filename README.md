@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa 🌸 I'm Sokuyo</h1>
+<h1 align="center">Konichiwa 🌸 I'm Aran</h1>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=808080&width=420&lines=A+Basic+Programmer+From+India;Currently+Studying+As+Student">
