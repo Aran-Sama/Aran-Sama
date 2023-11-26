@@ -21,20 +21,20 @@
 
 </i> 
  
- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Programming Languages I've Learned :</b>
+ ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Programming Languages I've Learned :</b>
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 
 
-# My GitHub Stats
+## <img src="https://github.com/sokuyo/sokuyo/blob/main/resources/takodachi-ina.gif" width ="25"><b> My GitHub Stats :</b>
 
 ![Sokuyo's Git Stats](https://github-readme-stats.vercel.app/api?username=sokuyo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 ![Sokuyo's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=sokuyo&theme=midnight-purple)
 
-# My Activity Graph
+## <img src="https://github.com/sokuyo/sokuyo/blob/main/resources/calliope-mori-hololive-english.gif" width ="30"><b> My Activity Graph :</b>
 
 
 ![Sokuyo's GitHub Graph](https://github-readme-stats.vercel.app/api/top-langs?username=sokuyo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
