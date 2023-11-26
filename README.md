@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=808080&width=420&lines=A+Basic+Programmer+From+India;Currently+Studying+As+Student">
 </p>
 <p align="center">
-  <a href="https://t.me/Sokuyo"><img src="https://github.com/sokuyo/sokuyo/blob/main/resources/jingliu.gif" alt="zerohisoka"></a>
+  <a href="https://t.me/Sokuyo"><img src="https://github.com/sokuyo/sokuyo/blob/main/resources/a_aaad4b06772efaaab0517e6a68f78241.gif" alt="zerohisoka"></a>
   
   
   
