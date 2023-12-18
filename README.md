@@ -8,7 +8,7 @@
   </p> <p align="center">
   
   
-  <a href="http://discordapp.com/users/620600298758602765">
+  <a href="http://discordapp.com/users/6206002987586**5">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord"/>
   </a>  
 </a>
